@@ -1,1 +1,1 @@
-# alx-system_engineering-devops
+this repository is an introduction to bash coding
